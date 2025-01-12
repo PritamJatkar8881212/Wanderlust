@@ -1,0 +1,6 @@
+pritamjatkar1724
+pritam04
+
+mongodb+srv://pritamjatkar1724:<db_password>@cluster0.p6rqs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://pritamjatkar1724:pritam04@cluster0.p6rqs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
